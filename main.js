@@ -65,3 +65,5 @@ console.log(ans);
 // default patamenter
 // in function defination if we add "=" at the right of the parameter and give a value then it will become 
 // default parameter
+
+//gouse
